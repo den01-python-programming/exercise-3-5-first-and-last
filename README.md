@@ -1,6 +1,6 @@
 # Exercise 3.5 First and last
 
-In the exercise template there is a program that reads inputs from the user and adds them to a list. Reading is stopped once the user enters an empty string.
+Write a program that asks the user for strings and adds them to a list. The program stops reading when the user enters an empty string.
 
 Modify the program to print both the first and the last values after the reading ends. You may suppose that at least two values are read into the list.
 
