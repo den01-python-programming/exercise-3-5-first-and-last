@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","","","","Tom","Mary"]
+    assert output == ["","","","","","Tom","Mary"]
